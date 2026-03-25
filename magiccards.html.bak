@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet"  href="source/mtgstyle.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+<title>
+MTG
+</title>
+</head>
+
+<body>
+<script src="source/mtgjava.js" ></script>
+
+
+<header>
+<h1>
+<a href="#top">
+Magic The Gathering
+</a>
+</h1>
+<li><a href="#about">about</a><a href="#cards"> cards‎ </a><a href="#contacts"> </a></li>
+</header>
+<div class="section1">
+<div class="container1">
+
+
+
+
+
+<h1 id="top">
+<span class="fade-in-image">
+MTG
+</span>
+</h1>
+
+
+
+<p>
+<span class="fade-in-image">
+Magic the gathering
+</span>
+</p>
+<div class="halfsection1">
+<img src="media/magicimage1.jpg" height="15%" width="15%">
+<p>
+Magic: The Gathering (often called Magic or MTG) is a strategic collectible trading card game created by Richard Garfield and published by 
+Wizards of the Coast in 1993. Players take on the roles of powerful wizards called Planeswalkers and build custom decks of cards representing 
+spells, creatures, and magical effects to battle opponents. Each player starts with a set amount of life (typically 20) and wins by reducing 
+the opponent’s life to zero or accomplishing special victory conditions provided by certain cards. The game combines strategic deck-building,
+ resource management (mana), and tactical decision-making, and supports both tabletop play and digital versions like Magic Arena. It has an 
+ expansive multiverse of settings, millions of players worldwide, and a vibrant community and competitive scene.
+</p>
+<br>
+</div>
+
+</p>
+</div>
+</p>
+</div>
+
+
+
+
+<div class="section2">
+
+<br>
+</div>
+
+<div class="section3">
+<footer id="cards">
+</footer>
+
+<div class="gallery">
+
+<div class="card">
+<div class="item">
+<div class="slideshow">
+  <div class="slides-track">
+    <img src="media/card1.jpg">
+    <img src="media/card4.jpg">
+    <img src="media/card7.jpg">
+    <img src="media/card1.jpg">
+	<img src="media/card7.jpg">
+    <img src="media/card8.jpg">
+  </div>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="item">
+<div class="slideshow">
+  <div class="slides-track">
+    <img src="media/card4.jpg">
+    <img src="media/card7.jpg">
+    <img src="media/card9.jpg">
+    <img src="media/card4.jpg">
+	<img src="media/card8.jpg">
+    <img src="media/card9.jpg">
+  </div>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<div class="item">
+<div class="slideshow">
+  <div class="slides-track">
+    <img src="media/card7.jpg">
+    <img src="media/card1.jpg">
+    <img src="media/card4.jpg">
+    <img src="media/card8.jpg">
+	<img src="media/card9.jpg">
+    <img src="media/card10.jpg">
+  </div>
+</div>
+</div>
+</div>
+
+
+</div>
+<br>
+</div>
+<div class="section2">
+<br>
+</div>
+</html>
