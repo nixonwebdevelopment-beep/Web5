@@ -21,14 +21,14 @@ body {
 
 
 .section1 {
-	background-image: url(../media/background2.jpg);
+	background-image: url(background2.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	line-height: 90vw;
 }
 
 .section2 {
-	background-image: url(../media/background3.jpg);
+	background-image: url(background3.jpg);
 	background-attachment: fixed;
 	background-size: cover;
 	line-height: 10vw;
